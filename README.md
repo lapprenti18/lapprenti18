@@ -24,4 +24,12 @@
 <img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 <img align="left" alt="Angular" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 
+<br />
+<br />
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Emeryck's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+
+</details>
