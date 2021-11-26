@@ -17,8 +17,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnxnI3Yx177kIdAtiukh8gJ9vtZ1QjZ01Dg&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="![image](https://user-images.githubusercontent.com/56729411/143625937-dfbee205-ef4a-417d-a547-3d2350171594.png)" />
-<img align="left" alt="Visual Studio Code" width="26px" src="![image](https://user-images.githubusercontent.com/56729411/143625964-5526bc66-f641-48a2-bf29-aa738e500e77.png)" />
-<img align="left" alt="Visual Studio Code" width="26px" src="![image](https://user-images.githubusercontent.com/56729411/143625986-a3fafbcb-9707-4261-be7a-33e25bf1c6b2.png)" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://www.maisonlambot.com/wp-content/uploads/2016/03/js-logo.png" />
 
 
