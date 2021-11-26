@@ -33,3 +33,10 @@
   <img align="left" alt="Emeryck's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lapprenti18&show_icons=true&hide_border=true" />
 
 </details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapprenti18" />
+
+</details>
