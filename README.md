@@ -5,7 +5,7 @@
 - 👯 I’m looking for an InternShip
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/emeryck-clerin)
+- 📫 How to reach me: [Linkedin]
 - ⚡ Fun fact: Next year, I will move to Melbourne or Édimbourg
 
 ### Languages and Tools:
@@ -39,3 +39,5 @@
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapprenti18" />
 
 </details>
+
+[linkedin]: www.linkedin.com/in/emeryck-clerin
