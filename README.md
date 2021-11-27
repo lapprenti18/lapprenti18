@@ -40,4 +40,4 @@
 
 </details>
 
-[linkedin]: www.linkedin.com/in/emeryck-clerin
+[linkedin]: https://linkedin.com/in/emeryck-clerin
