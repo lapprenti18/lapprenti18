@@ -1,12 +1,11 @@
-### Hi there, I'm Emeryck 👋
+### Hi there, I'm Clerin Emeryck. A Backend & cloud engineer student from France <img width="25px" height="25px" alt="french flag" src="https://media.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif"> ! <img width="25px" height="25px" alt="hand shake" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-- 🔭 I’m currently in my first year of my master and doing a year ovearsea in Australia 🦘
-- 🌱 I’m currently improving my skills related to the backend, cloud and data science
-- 👯 I’m looking for a part-time from september to march and an internship from march to jully
-- 🤔 I want to learn more about Docker and kebernetes
-- 💬 Ask me about Anything
-- 📫 How to reach me: [Linkedin]
-- ⚡ Fun fact: My first time on a plane was to go in Australia
+<p align="left">
+<a href="https://www.linkedin.com/in/emeryck-clerin" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/lapprenti18" target="_blank"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/clerin_emeryck/?hl=fr" target="_blank"><img src="https://img.shields.io/badge/instagram-%23F62192.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discordapp.com/users/lapprenti18" target="_blank"><img src="https://img.shields.io/badge/discord-%239433FF.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-70px-Visual_Studio_Code_1.35_icon.svg.png" />
