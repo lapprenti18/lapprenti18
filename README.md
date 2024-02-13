@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/emeryck-clerin" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/lapprenti18" target="_blank"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/clerin_emeryck/?hl=fr" target="_blank"><img src="https://img.shields.io/badge/instagram-%23F62192.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://discordapp.com/users/lapprenti18" target="_blank"><img src="https://img.shields.io/badge/discord-%239433FF.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discordapp.com/users/305483063595630592" target="_blank"><img src="https://img.shields.io/badge/discord-%239433FF.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
   
 
 ### Languages and Tools:
