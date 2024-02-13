@@ -7,7 +7,13 @@
 <a href="https://discordapp.com/users/305483063595630592" target="_blank"><img src="https://img.shields.io/badge/discord-%239433FF.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
   
 
-### Languages and Tools:
+### About me
+
+<p aling="left"><samp>I am a 22yo young student developer living in France. Currently 5th year EPITECH student :mortar_board:, I study backend & cloud environment. I am working as Assistant Teacher at <a href="https://www.epitech.eu" target="_blank">Epitech</a>.<br/><br/> Since I started to develop 6 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been doing a lot of sport since I'm 6 years old :person_lifting_weights: :man_mountain_biking: :man_surfing:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
+
+
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-70px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Github" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 
