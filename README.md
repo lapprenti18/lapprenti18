@@ -34,19 +34,12 @@
  </tr>
 </table>
 
----
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>📈 My GitHub Stats</summary>
 
-  <img align="left" alt="Emeryck's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lapprenti18&show_icons=true&hide_border=true" />
+<p align="center">
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lapprenti18&show_icons=true&theme=algolia&langs_count=8" alt="lapprenti18'github stats" />
+ <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapprenti18&show_icons=true&layout=compact&theme=algolia" alt="lapprenti18's github stats" />
+</p>
 
 </details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapprenti18" />
-
-</details>
-
-[linkedin]: https://linkedin.com/in/emeryck-clerin
