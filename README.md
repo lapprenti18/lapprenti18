@@ -8,7 +8,7 @@
 
 ### About me
 
-<p aling="left"><samp>I am a 22yo young student developer living in France. Currently 5th year EPITECH student :mortar_board:, I study backend & cloud environment. I am working as Assistant Teacher at <a href="https://www.epitech.eu" target="_blank">Epitech</a>.<br/><br/> Since I started to develop 6 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been doing a lot of sport since I'm 6 years old :person_lifting_weights: :man_mountain_biking: :man_surfing:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
+<p aling="left"><samp>I am a 22yo young student developer living in France. Currently 5th year EPITECH student :mortar_board:, I study backend & cloud environment. I am working as Assistant Teacher at <a href="https://www.epitech.eu" target="_blank">Epitech</a>.<br/><br/> Since I started to develop 6 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been doing a lot of sport since I'm 6 years old :mountain_bicyclist: :surfer:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
 
 ### Languages and Tools:
 <table border="0">
